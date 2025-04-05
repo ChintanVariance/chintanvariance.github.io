@@ -1,4 +1,4 @@
-# LWC Boilerplate Example
+# LWC Boilerplate Example 1
 
 The **LWC Boilerplate** example contains the minimum code needed to get a simple Single Page Application (SPA) on LWR running.
 
