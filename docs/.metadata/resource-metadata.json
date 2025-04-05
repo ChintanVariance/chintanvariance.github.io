@@ -1,3 +1,18 @@
 {
-  "resources": {}
+  "resources": {
+    "lwr-loader-shim.bundle.min.js|v/0_17_2": {
+      "path": "/1/resource/amd/lwr-loader-shim.bundle.min.js/v/0_17_2/lwr-loader-shim.bundle.min.js",
+      "mimeType": "application/javascript",
+      "inline": false,
+      "version": "0.17.2",
+      "integrity": "sha256-quGBlf4yJTOSUasmLfZGz32I2NaKVUUIXVEJvXspqxY="
+    },
+    "lwr-error-shim.js|v/0_17_2": {
+      "path": "/1/resource/amd/lwr-error-shim.js/v/0_17_2/lwr-error-shim.js",
+      "mimeType": "application/javascript",
+      "inline": true,
+      "version": "0.17.2",
+      "integrity": "sha256-ICjzYTX703p/9VPKmlNQr0ucWR4lJzzI+WDj8intClI="
+    }
+  }
 }

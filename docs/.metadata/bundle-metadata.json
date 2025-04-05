@@ -2,13 +2,13 @@
   "bundles": {
     "example/app|v/0_0_1": {
       "version": "0.0.1",
-      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/sha256-uC9rX-sS8QGyLJwmKkrBzirgaQWqw2h1zjqNj4Pmc2w/bundle_example_app.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/sha256-BwBcymCcA4eAvjJyugWXeyn-qqZnZLxAJJxZpbW91wA/bundle_example_app.js",
       "includedModules": [],
       "imports": [
         "lwc|v/8_16_4"
       ],
       "dynamicImports": [],
-      "integrity": "sha256-uC9rX+sS8QGyLJwmKkrBzirgaQWqw2h1zjqNj4Pmc2w="
+      "integrity": "sha256-BwBcymCcA4eAvjJyugWXeyn+qqZnZLxAJJxZpbW91wA="
     },
     "@lwrjs/app-service/example/module/esm|v/0_17_2": {
       "version": "0.17.2",
@@ -24,11 +24,11 @@
     },
     "lwc|v/8_16_4": {
       "version": "8.16.4",
-      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/8_16_4/s/sha256-vG9Mj3zh4l9DOJ9cMKuLopa00poE8OaEH5Tzjknf6b8/bundle_lwc.js",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/lwc/v/8_16_4/s/sha256-h235rn1X5zqNOHEfAu3V2lnVNVCZML1lFt46L9d2oYg/bundle_lwc.js",
       "includedModules": [],
       "imports": [],
       "dynamicImports": [],
-      "integrity": "sha256-vG9Mj3zh4l9DOJ9cMKuLopa00poE8OaEH5Tzjknf6b8="
+      "integrity": "sha256-h235rn1X5zqNOHEfAu3V2lnVNVCZML1lFt46L9d2oYg="
     },
     "lwr/esmLoader|v/0_17_2": {
       "version": "0.17.2",
@@ -45,6 +45,22 @@
       "imports": [],
       "dynamicImports": [],
       "integrity": "sha256-kGLXJohj797McyfBP40zJ+/7G1vXcR4obQNMGxQNgGk="
+    },
+    "@lwrjs/app-service/example/module/amd|v/0_17_2": {
+      "version": "0.17.2",
+      "path": "/1/bundle/amd/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/amd/v/0_17_2/s/sha256-hbPJDyikzFbcVyluBiGpmHhSgxsP5rIXso3h27yi6ZY/bundle_@lwrjs_app-service_example_module_amd.js",
+      "includedModules": [
+        "lwr/metrics|v/0_17_2",
+        "lwr/init|v/0_17_2",
+        "lwr/preInit|v/0_17_2"
+      ],
+      "imports": [
+        "lwr/profiler|v/0_17_2",
+        "lwc|v/8_16_4",
+        "lwr/loader|v/0_17_2"
+      ],
+      "dynamicImports": [],
+      "integrity": "sha256-hbPJDyikzFbcVyluBiGpmHhSgxsP5rIXso3h27yi6ZY="
     }
   }
 }
